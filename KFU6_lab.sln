@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KFU6_lab", "KFU6_lab\KFU6_lab.csproj", "{25FB9109-F992-41DF-9F5B-E4625BC22C59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GRAVEYARD", "GRAVEYARD\GRAVEYARD.csproj", "{4B2A3C86-9052-43C9-B574-7E78B6C0F962}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25FB9109-F992-41DF-9F5B-E4625BC22C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25FB9109-F992-41DF-9F5B-E4625BC22C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25FB9109-F992-41DF-9F5B-E4625BC22C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25FB9109-F992-41DF-9F5B-E4625BC22C59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B2A3C86-9052-43C9-B574-7E78B6C0F962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B2A3C86-9052-43C9-B574-7E78B6C0F962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B2A3C86-9052-43C9-B574-7E78B6C0F962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B2A3C86-9052-43C9-B574-7E78B6C0F962}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C868A806-C40E-4B17-8088-F30EA70DF6D2}
+	EndGlobalSection
+EndGlobal
