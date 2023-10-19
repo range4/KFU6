@@ -17,7 +17,7 @@ namespace KFU6_lab
             Entrances = entrances;
             uniqueNumber = getNextUniqueNumber();
         }
-        private static int nextUniqueNumber = 1;
+        private static int nextUniqueNumber = 437;
 
         public int GetUniqueNumber()
         {
